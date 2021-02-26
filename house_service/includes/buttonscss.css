@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century ;
+}
+
+header
+{
+ background-image: url(https://images.pexels.com/photos/5516215/pexels-photo-5516215.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+ h1{
+  color: black;
+  float: center;
+  text-align:left;
+  font-size:30px;
+  margin-right:50px;
+  margin-top:0vh;
+  letter-spacing: 0.1em;
+  word-spacing: 0.5em;
+
+}
+ h2{
+  float: center;
+  color:black;
+  text-align:left;
+  font-size:20px;
+   margin-top:5vh;
+  letter-spacing: 0.0em;
+  word-spacing: 0.5em;
+}
+
+p{
+  float: center;
+  color:black;
+  text-align:left;
+  font-size:20.5px;
+  font-style:bold;
+  letter-spacing: 0em;
+  word-spacing: 0.3em;
+}
+.button{
+  border-radius:25px;
+  color: black;
+  align:left;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+}

@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century ;
+}
+
+header
+{
+ background-image: url(https://images.unsplash.com/photo-1469401258206-4e0cc14e9358?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1349&q=80%E2%80%AA);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+ h1{
+  font-family: 'Copperplate';
+  color: black;
+  float: right;
+  text-align:center;
+  font-size:50px;
+  margin-right:450px;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  word-spacing: 1em;
+}
+ h2{
+  float: right;
+  color:white;
+  text-align:right;
+  margin-right:-839px;
+  margin-top:50vh;
+  letter-spacing: 0.1em;
+  word-spacing: 0.5em;
+}
+h3{
+  float: right;
+  color:white;
+  text-align:right;
+  margin-right:-750px;
+  margin-top:60vh;
+  letter-spacing: 0.1em;
+  word-spacing: 1em;
+}
+h4{
+  float: right;
+  color:white;
+  text-align:right;
+  margin-right:-650px;
+  margin-top:60vh;
+  letter-spacing: 0.1em;
+  word-spacing: 1em;
+}
+ul
+{
+  list-style-type: none;
+   float:left;
+   margin-top: 75vh;
+
+}
+
+
+ul li{
+  display: inline;
+  margin: 3px;
+  margin-left: 15px;
+}
+
+ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 5px 20px ;
+  border: 1px #fff solid;
+  border-radius: 10px;
+  transition: 0.9s ease;
+}
+
+ul li a:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+.button {
+  border-radius:25px;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.about{
+
+  background-image: url(https://images.unsplash.com/photo-1469401258206-4e0cc14e9358?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1349&q=80%E2%80%AA);
+}
+.contact{
+  background-image: url(https://images.unsplash.com/photo-1469401258206-4e0cc14e9358?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1349&q=80%E2%80%AA);
+}
+p{
+  color: white;
+  margin-left:10px;
+  margin-top: 80vh;
+  text-align: left;
+  letter-spacing: 0.1em;
+  word-spacing: 1em;
+}

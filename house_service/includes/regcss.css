@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century ;
+}
+
+header
+{
+  background-image: url(https://images.unsplash.com/photo-1565041143406-e228df2a517f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+ h1{
+  font-family: 'Copperplate';
+  color: white;
+  float: right;
+  text-align:center;
+  font-size:50px;
+  margin-right:330px;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  word-spacing: 0em;
+}
+h2{
+  color: white;
+  float: right;
+  text-align:right;
+  font-size:50px;
+  margin-right:450px;
+  margin-top:50vh;
+  font-style: italic;
+  letter-spacing: 0.1em;
+  word-spacing: 0em;
+}
+h3{
+  color: white;
+  float: right;
+  text-align:right;
+  font-size:50px;
+  margin-top:-3vh;
+  margin-right:580px;
+  font-style: italic;
+  letter-spacing: 0.1em;
+  word-spacing: 0.5em;
+}
+td{
+   color:white;
+   word-spacing:0.3em;
+   text-align:left;  
+   padding:1.5px 
+}
+.button {
+  border-radius:25px;
+  color: black;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
